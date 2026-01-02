@@ -1,4 +1,4 @@
 
-Name: Stephan Kaufmann
-Wohnort: Hessen
-Familie: vorhanden
+- Name: Stephan Kaufmann
+- Wohnort: Hessen
+- Familie: vorhanden
