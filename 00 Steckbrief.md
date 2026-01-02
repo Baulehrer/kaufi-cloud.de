@@ -1,5 +1,5 @@
 
-## Steckbrief
+## Über mich
 
 + Name: Stephan Kaufmann
 + Wohnort: Hessen
