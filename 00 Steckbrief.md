@@ -1,6 +1,6 @@
 
 ## Steckbrief
-![[kaufmann, stephan 15a----------.jpg]]
+
 + Name: Stephan Kaufmann
 + Wohnort: Hessen
 + Familie: vorhanden
@@ -9,3 +9,4 @@
 - Urlaub, Wandern & Klettern
 - Technik, Linux & KI
 - Musik (Siehe Navigation)
+- Serien, Filme & Bücher
