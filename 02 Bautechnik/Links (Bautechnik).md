@@ -24,24 +24,20 @@ tags:
 - [Linksammlung: Unterrichtsmaterial Bauchemie (VCI)](https://www.vci.de/fonds/schulpartnerschaft/unterrichtsmaterialien/seiten.jsp)
 
 # Bauphysik
-
 - [Link: U-Wert-Rechner (Ubakus, Ralf Plag) ](https://www.ubakus.de/u-wert-rechner/)
 
 # Baustoffe / Baustoffkunde
 
 ## Allgemein
-
 - [Link: Materialarchiv](https://materialarchiv.ch/de/?type=all)
 - [Link: Baustoffwissen (Rudolf Müller)](https://www.baustoffwissen.de)
 - [Link: Skripte Werkstoffe (Unibw.de)](https://www.unibw.de/werkstoffe/lehre/bachelorstudium/skripte-werkstoffe)
 - [Link: Kalk, Zement und Gips - mineralische Bindemittel 2018 (Uni Luzern)](https://sites.hslu.ch/architektur/wp-content/uploads/sites/11/2022/11/Dokumentation-Kalk-Zement-Gips.pdf)
 
 ## Asphalt
-
 - [Linksammlung: Broschüren und Leifäden (DAV)](https://asphalt.de/produkt-kategorie/veroeffentlichungen-des-dav/)
 
 ## Beton
-
 - [Link: Was ist Beton? 2016 (Beton.org)](https://www.beton.org/fileadmin/beton-org/media/Dokumente/PDF/Service/Zementmerkbl%C3%A4tter/A_Was_ist_Beton.pdf)
 
 - [Link: Betontechnische Daten 2022 (Heidelberg Materials)](https://www.betontechnische-daten.de/sites/default/files/2023-03/Betontechnische%20Daten%20von%20Heidelberg%20Materials%20Ausgabe%202022_1.pdf)
@@ -76,35 +72,26 @@ tags:
 ## Bindemittel
 
 ### Bitumen
-
 - [Linksammlung: Bitumen als Abdichtung (Derdichtebau.de)](https://www.derdichtebau.de/mediathek/)
 
 ### Gips
-
 - [Linksammlung: Bundesverband der Gipsindustrie e.V. (Gips.de)](https://www.gips.de/downloads/publikationen/buecher)
 
-
 ### Kalk
-
 - [Link: Herstellung von Kalk 2013 (Kalk.de)](https://www.kalk.de/fileadmin/Home/Wissensportal/Publikationen/Allgemeines/Illu_Kalkschema_2013.pdf)
 - [Link: Faszination Kalk 2003 (Kalk.de)](https://www.kalk.de/fileadmin/Home/Wissensportal/Publikationen/Allgemeines/Fazination_Kalk.pdf)
 - [Video: Der Kalkbrenner vom Kochelsee (der letzte seines Standes)](https://youtu.be/zDMWnpaqdz0?si=wDbxenQ34y-SuOYg)
 
 ### Lehm
-
 - [Linksammlung: Dachverband Lehm e.V.](https://www.dachverband-lehm.de/downloads)
 
-
 ### Zement
-
 - [Link: Zement und ihre Herstellung 2024 (Beton.org)](https://www.vdpm.info/wp-content/uploads/2022/11/merkblatt-leitlinien2022.pdf)
 - [Video: Wo kommt eigentlich Zement her? (Lafarge/Holcim)](https://www.youtube.com/watch?v=PIzwkGe0vKI)
 - [Video: Vom Kalkstein zum Zement (Heidelberg Materials)](https://www.youtube.com/watch?v=QwtnSPzn1Ss)
 
 
 ## Dämmstoffe
-
-
 - [Link: Geschichte der Dämmstoffe 2017 (Energieinstitut-Hessen)](https://nei-dt.de/Downloads/Geschichte%20der%20Daemmstoffe-Eicke-Hennig-2017.pdf)
 - [Link: Dämmstoffe im Überblick (Sanier.de)](https://www.sanier.de/wp-content/uploads/ebooks/ebook-daemmstoffe-sanier.de.pdf)
 - [Link: Leitfaden Dämmstoffe 3.0 2017 (Bauzentrum München)](https://download.bauzentrum-muenchen.de/index.php?task=download.send&id=123:leitfaden-daemmstoffe-3-0&catid=32)
@@ -114,59 +101,46 @@ tags:
 - [Linksammlung: Naturdämmstoffe (DUH)](https://www.duh.de/naturdaemmstoffe/) 
 
 ## Boden(-verbesserung)
-
 - [Link: Bodenbehandlung 2010 (Holcim)](https://www.holcim.de/sites/germany/files/documents/bodenbehandlung20-20tragschichten20mit20hydraulischen20bindemitteln.pdf)
 - [Link: Bodenverbessernung / Bodenverfestigung mit Kalk 2013 (Kalk.de)](https://www.kalk.de/fileadmin/Home/Wissensportal/Publikationen/Fachpublikationen/Erd-_und_Stra%C3%9Fenbau/2013-09-10_Broschuere_Bodenbehandlung_02.pdf)
-
 
 ## Mauerwerk
 
 ### Allgemein
-
 - [Link: Der Ratgeber rund um die Außenwand 2024 (VPDM)](https://www.vdpm.info/wp-content/uploads/2024/03/Downloads-aussenwandratgeber_2024.pdf)
 
 ### Kalksandstein
-
 - [Link: Mauerfibel 2019 (BV Kalksandsteinindustrie)](https://www.kalksandstein.de/media/08_downloadcenter/01_y_maurerfibel_gesamt_bvksi-201013_de.pdf)
 
 ### Leichtbetonstein
-
 - [Link: Das Wichtigste für Planung und Ausführung 2023 (KLB)](https://www.klb-klimaleichtblock.de/files/documents/Broschueren/2023/KLB_Das_Wichtigste_V2.pdf)
 - [Video: KLB Produktionsfilm](https://www.youtube.com/watch?v=GNOQy0Eglms)
 
 ### Porenbeton
-
 - [Link: Porenbeton-Handbuch 2018 (BV Porenbeton)](https://www.bv-porenbeton.de/index.php/services/downloads-publikationen?view=article&id=137&catid=14)
 - [Link: Bautechnische Daten 2020 (BV Porenbeton)](https://www.bv-porenbeton.de/pdfs/technische_publikationen/BVP_Bautechnische-Daten_Porenbeton-Mauerwerksprodukte_04-2020.pdf)
 - [Video: Produktion von Ytong Porenbeton](https://www.youtube.com/watch?v=re-r-CpGC24)
 
 ### Ziegel
-
 - [Link: Ziegel Lexikon Mauerwerk 2020 (Ziegel.de)](https://www.ziegel.de/sites/default/files/2020-01/2020_ZiegelLexikon.pdf)
 - [Video: Ziegelherstellung (Eder)](https://www.youtube.com/watch?v=7IUBOMtRY6A)
 
 ## Klebstoffe
-
 - [Link: Die Kunst des Klebens 2018 (VCI)](https://www.vci.de/fonds/schulpartnerschaft/unterrichtsmaterialien/unterrichtsmaterial-klebstoffe.jsp)
 
 ## Putz
-
 - [Link: Leitlinien für das Verputzen von Mauerwerk und Beton 2022 (VDPM)](https://www.vdpm.info/wp-content/uploads/2022/11/merkblatt-leitlinien2022.pdf)
 - [Link: Strukturierte Putzoberflächen 2017 (BFS et al.)](https://www.schwepa.com/sites/default/files/merkblatt-strukturierte-putzoberflachen_visuelle-anforderungen_november-2017.pdf)
 - [Link: Putz auf Ziegelmauerwerk 2023 (Ziegel.de)](https://www.ziegel.de/sites/default/files/2023-09/Putz-auf-Ziegelmauerwerk_0.pdf)
 
-
 ## Nachhaltigkeit
-
 - [Link: Nachwachsende Rohstoffe 2021 (VCI)](https://www.vci.de/fonds/schulpartnerschaft/unterrichtsmaterialien/detailpage-84.jsp)
 
 ## Wärmedämmung
-
 - [Link: Über den Sinn von Wärmedämmung (KEA)](https://www.kea-bw.de/fileadmin/user_upload/Energiemanagement/Wissensportal/Argumentationshilfen/Ueber_den_Sinn_von_Waermedaemmung.pdf)
 - [Link: Wärmedämmung Fragen und Antworten 2016 (Umwelt Bundesamt)](https://www.umweltbundesamt.de/sites/default/files/medien/376/publikationen/waermedaemmung_fragen_und_antworten_web.pdf)
 
 ## Farbe & Beschichtungen
-
 - [Linksammlung: Sondermerkblätter (Caparol)](https://www.caparol.ch/service/technik)
 
 ## Verschiedenes
