@@ -20,3 +20,9 @@ Hier möchte ich meine persönlichen Empfehlungen auflisten. Größen wie Iron M
 
 # D
 - [Demon - Dont Break The Circle (live)](https://www.youtube.com/watch?v=trlZ-A5VIC0)
+
+# E
+- [Elixir - Children Of Tomorrow](https://www.youtube.com/watch?v=NUg5l-FeAAo)
+
+# F
+- [Fist - Name, Rank And Serial Number](https://www.youtube.com/watch?v=L5i3xsV4i60)
