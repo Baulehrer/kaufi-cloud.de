@@ -32,3 +32,13 @@ Hier möchte ich meine persönlichen Empfehlungen auflisten. Größen wie Iron M
 
 # H
 - [Heavy Load - Heavy Metal Angels](https://www.youtube.com/watch?v=c3ESkmSrN4Y)
+
+# I
+- [Incubus - Helen Of Troy](https://www.youtube.com/watch?v=p_JnNfrg46w)
+
+# L
+- [Legend - The Destroyer](https://www.youtube.com/watch?v=ByLxvXqe8Xg)
+
+# M
+- [Mirage - Far Away](https://www.youtube.com/watch?v=ZMG51Dt_YJk)
+
