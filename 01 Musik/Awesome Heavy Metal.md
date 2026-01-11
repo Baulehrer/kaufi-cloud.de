@@ -19,7 +19,7 @@ Hier möchte ich meine persönlichen Empfehlungen auflisten. Größen wie Iron M
 - [Commander - Terror](https://www.youtube.com/watch?v=MIT7nogYI20)
 
 # D
-- [Demon - Dont Break The Circle (live)](https://www.youtube.com/watch?v=trlZ-A5VIC0)
+- [Demon - Dont Break The Circle](https://www.youtube.com/watch?v=pI-q_84mBxQ)
 
 # E
 - [Elixir - Children Of Tomorrow](https://www.youtube.com/watch?v=NUg5l-FeAAo)
