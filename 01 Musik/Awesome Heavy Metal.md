@@ -60,3 +60,8 @@ Hier möchte ich meine persönlichen Empfehlungen auflisten. Größen wie Iron M
 # S
 - [Black Clad Rider · Stone Dagger](https://www.youtube.com/watch?v=a3HQK7Ia8Xw)
 
+# T
+- [Tytan - Money For Love](https://www.youtube.com/watch?v=6H1P7Wovk_E)
+
+# V
+- [Vicious Rumors - Condemned](https://www.youtube.com/watch?v=mJf-8Mdn-u8)
