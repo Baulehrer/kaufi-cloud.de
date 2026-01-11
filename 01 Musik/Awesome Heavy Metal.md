@@ -55,7 +55,7 @@ Hier möchte ich meine persönlichen Empfehlungen auflisten. Größen wie Iron M
 - [Quarz - Stoking Up The Fires Of Hell](https://www.youtube.com/watch?v=RV0ZX68an2E)
 
 # R
--[Razor White - What My Eyes Have Seen](https://www.youtube.com/watch?v=Ur_nPl8ChGU)
+- [Razor White - What My Eyes Have Seen](https://www.youtube.com/watch?v=Ur_nPl8ChGU)
 
 # S
 - [Black Clad Rider · Stone Dagger](https://www.youtube.com/watch?v=a3HQK7Ia8Xw)
