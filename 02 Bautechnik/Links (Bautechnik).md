@@ -12,7 +12,7 @@ tags:
 
 # Arbeitssicherheit
 - [Linksammlung: Publikationen (DGUV)](https://publikationen.dguv.de)
-- [Linksammlung: Vorschriften & Regeln (BGW)]([Linksammlung: Publikationen (DGUV)](https://publikationen.dguv.de)
+- [Linksammlung: Vorschriften & Regeln (BGW)]([Linksammlung: Publikationen (DGUV)]https://publikationen.dguv.de)
 
 # Bauchemie
 - [Linksammlung: Baudichtstoffe (deutsche Bauchemie)](https://deutsche-bauchemie.de/publikationen/deutschsprachige-publikationen/baudichtstoffe)
