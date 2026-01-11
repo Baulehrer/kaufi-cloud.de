@@ -2,7 +2,7 @@
 Title: Awesome Heavy Metal
 Autor: Stephan Kaufmann
 Date: 01/2026
-Version: 1
+Version: 01f
 tags:
   - Links
   - Musik
@@ -26,3 +26,6 @@ Hier möchte ich meine persönlichen Empfehlungen auflisten. Größen wie Iron M
 
 # F
 - [Fist - Name, Rank And Serial Number](https://www.youtube.com/watch?v=L5i3xsV4i60)
+
+# G
+- [Grim Reaper - See You In Hell](https://www.youtube.com/watch?v=sJgv-qBBT3Y)
