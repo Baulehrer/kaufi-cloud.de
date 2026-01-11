@@ -1,8 +1,8 @@
 ---
 Title: Links (Bautechnik)
 Autor: Stephan Kaufmann
-Date: 12/2025
-Version: 0.6
+Date: 01/2026
+Version: "0.7"
 tags:
   - Bautechnik
   - Links
