@@ -47,3 +47,6 @@ Hier möchte ich meine persönlichen Empfehlungen auflisten. Größen wie Iron M
 
 # O
 - [Overlord SR - Enchantress of the Night](https://www.youtube.com/watch?v=dCm6fN7PtRM)
+
+# P
+- [Parasite - Lonely Eagle](https://www.youtube.com/watch?v=b0YUtVBlmHE)
