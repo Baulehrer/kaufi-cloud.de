@@ -13,7 +13,7 @@ Hier möchte ich meine persönlichen Empfehlungen auflisten. Größen wie Iron M
 - [Armored Saint - Can U Deliver](https://www.youtube.com/watch?v=LQhInBqgtN8)
 
 # B 
-- [Black Knight - Warlords Wrath (live)](https://www.youtube.com/watch?v=sZ5u8iQ_uvU)
+- [Black Knight - Warlords Wrath](https://www.youtube.com/watch?v=9lwfPopPXfY)
 
 # C
 - [Commander - Terror](https://www.youtube.com/watch?v=MIT7nogYI20)
