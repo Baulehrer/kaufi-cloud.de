@@ -42,3 +42,8 @@ Hier möchte ich meine persönlichen Empfehlungen auflisten. Größen wie Iron M
 # M
 - [Mirage - Far Away](https://www.youtube.com/watch?v=ZMG51Dt_YJk)
 
+# N
+- [Night - Fire And Steel](https://www.youtube.com/watch?v=SAKE9iFaX5U)
+
+# O
+- [Overlord SR - Enchantress of the Night](https://www.youtube.com/watch?v=dCm6fN7PtRM)
