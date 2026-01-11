@@ -17,3 +17,6 @@ Hier möchte ich meine persönlichen Empfehlungen auflisten. Größen wie Iron M
 
 # C
 - [Commander - Terror](https://www.youtube.com/watch?v=MIT7nogYI20)
+
+# D
+- [Demon - Dont Break The Circle (live)](https://www.youtube.com/watch?v=trlZ-A5VIC0)
