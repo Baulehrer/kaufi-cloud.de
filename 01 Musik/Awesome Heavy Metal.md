@@ -50,3 +50,7 @@ Hier möchte ich meine persönlichen Empfehlungen auflisten. Größen wie Iron M
 
 # P
 - [Parasite - Lonely Eagle](https://www.youtube.com/watch?v=b0YUtVBlmHE)
+
+# Q
+- [Quarz - Stoking Up The Fires Of Hell](https://www.youtube.com/watch?v=RV0ZX68an2E)
+
