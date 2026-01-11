@@ -65,3 +65,9 @@ Hier möchte ich meine persönlichen Empfehlungen auflisten. Größen wie Iron M
 
 # V
 - [Vicious Rumors - Condemned](https://www.youtube.com/watch?v=mJf-8Mdn-u8)
+
+# W
+- [Warlord - Winter Tears](https://www.youtube.com/watch?v=rFMLb6S5co8)
+
+# XYZ
+- [Züül - Warhammer](https://www.youtube.com/watch?v=1QHBbpdV0zA)
