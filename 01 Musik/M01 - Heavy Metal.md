@@ -2,7 +2,7 @@
 Title: Awesome Heavy Metal
 Autor: Stephan Kaufmann
 Date: 01/2026
-Version: 01xyz
+Version: 01xyz (J,U)
 tags:
   - Links
   - Musik
