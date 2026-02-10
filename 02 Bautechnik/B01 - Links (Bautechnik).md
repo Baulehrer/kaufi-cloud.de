@@ -11,6 +11,7 @@ tags:
 - https://www.ddh.de/kostenlose-downloads (Anmeldung erforderlich)
 - passipedia.de
 - https://www.masea-ensan.com
+- https://technik.xella.de/media/ressources/Gated/multipor-daemmbuch.pdf
 
 # Arbeitssicherheit
 - [Linksammlung: Publikationen (DGUV)](https://publikationen.dguv.de)
