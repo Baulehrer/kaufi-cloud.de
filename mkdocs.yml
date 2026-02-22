@@ -2,13 +2,7 @@ site_name: kaufi-cloud.de
 site_description: Persönliche Website von Stephan Kaufmann
 site_author: Stephan Kaufmann
 site_url: https://kaufi-cloud.de
-docs_dir: .
-exclude_docs: |
-  CLAUDE.md
-  .gitignore
-  mkdocs.yml
-  *.key
-  *.pem
+docs_dir: docs
 
 theme:
   name: material
