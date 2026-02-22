@@ -4,17 +4,6 @@
   --md-code-font: "JetBrains Mono", monospace;
 }
 
-/* ── Header: Titel + Tagline ──────────────────────────────── */
-.md-header__topic:first-child .md-ellipsis::after {
-  content: "Wissen · Technik · Bratwurst";
-  display: block;
-  font-size: 0.62rem;
-  font-weight: 400;
-  opacity: 0.7;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-  margin-top: 1px;
-}
 
 /* ── Navigation: schlichte Tabs ──────────────────────────── */
 .md-tabs__link {
