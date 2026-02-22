@@ -1,0 +1,6 @@
+{% if config.theme.logo %}
+  <img src="{{ config.theme.logo }}" alt="{{ config.site_name }}" class="md-logo">
+{% else %}
+  <span class="md-header__title-name">{{ config.site_name }}</span>
+  <span class="md-header__tagline">Wissen &middot; Technik &middot; Bratwurst</span>
+{% endif %}

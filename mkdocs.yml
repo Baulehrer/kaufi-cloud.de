@@ -1,26 +1,37 @@
-site_name: kaufi-cloud.de
-site_description: Persönliche Website von Stephan Kaufmann
+site_name: Baulehrer-Kaufmann
+site_description: Wissen · Technik · Bratwurst
 site_author: Stephan Kaufmann
 site_url: https://kaufi-cloud.de
 docs_dir: docs
 
 theme:
   name: material
+  custom_dir: docs/overrides
   language: de
   palette:
     - scheme: default
+      primary: indigo
+      accent: indigo
       toggle:
         icon: material/brightness-7
         name: Dunkelmodus
     - scheme: slate
+      primary: indigo
+      accent: indigo
       toggle:
         icon: material/brightness-4
         name: Hellmodus
+  font:
+    text: Inter
+    code: JetBrains Mono
   features:
     - navigation.tabs
     - navigation.top
     - search.suggest
     - search.highlight
+
+extra_css:
+  - stylesheets/custom.css
 
 nav:
   - Start: index.md
