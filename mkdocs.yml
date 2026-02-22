@@ -6,7 +6,6 @@ docs_dir: docs
 
 theme:
   name: material
-  custom_dir: docs/overrides
   language: de
   palette:
     - scheme: default
