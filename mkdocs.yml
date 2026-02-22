@@ -8,18 +8,18 @@ theme:
   name: material
   language: de
   palette:
-    - scheme: default
-      primary: indigo
-      accent: indigo
-      toggle:
-        icon: material/brightness-7
-        name: Dunkelmodus
     - scheme: slate
-      primary: indigo
-      accent: indigo
+      primary: custom
+      accent: deep purple
       toggle:
         icon: material/brightness-4
         name: Hellmodus
+    - scheme: default
+      primary: custom
+      accent: deep purple
+      toggle:
+        icon: material/brightness-7
+        name: Dunkelmodus
   font:
     text: Inter
     code: JetBrains Mono
