@@ -1,0 +1,48 @@
+site_name: kaufi-cloud.de
+site_description: Persönliche Website von Stephan Kaufmann
+site_author: Stephan Kaufmann
+site_url: https://kaufi-cloud.de
+docs_dir: .
+exclude_docs: |
+  CLAUDE.md
+  .gitignore
+  mkdocs.yml
+  *.key
+  *.pem
+
+theme:
+  name: material
+  language: de
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Dunkelmodus
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Hellmodus
+  features:
+    - navigation.tabs
+    - navigation.top
+    - search.suggest
+    - search.highlight
+
+nav:
+  - Start: Steckbrief.md
+  - Bautechnik:
+    - Links: 02 Bautechnik/B01 - Links (Bautechnik).md
+  - Musik:
+    - Heavy Metal: 01 Musik/M01 - Heavy Metal.md
+    - Epic Doom: 01 Musik/M02 - (Epic) Doom.md
+    - Sonstiges: 01 Musik/M03 - Was sonst noch fetzt.md
+
+plugins:
+  - search:
+      lang: de
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - admonition
+  - attr_list

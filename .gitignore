@@ -1,0 +1,5 @@
+Claude.key
+*.key
+*.pem
+site/
+.obsidian/

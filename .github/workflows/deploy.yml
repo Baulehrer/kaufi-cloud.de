@@ -1,0 +1,28 @@
+name: Build and Deploy
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install MkDocs Material
+        run: pip install mkdocs-material
+
+      - name: Build
+        run: mkdocs build
+
+      - name: Deploy to Server
+        run: |
+          mkdir -p ~/.ssh
+          echo "${{ secrets.DEPLOY_KEY }}" > ~/.ssh/deploy_key
+          chmod 600 ~/.ssh/deploy_key
+          ssh-keyscan -H 37.114.49.102 >> ~/.ssh/known_hosts
+          rsync -az --delete site/ root@37.114.49.102:/var/www/kaufi-cloud.de/
