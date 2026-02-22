@@ -23,7 +23,7 @@ theme:
     - search.highlight
 
 nav:
-  - Start: Steckbrief.md
+  - Start: index.md
   - Bautechnik:
     - Links: 02 Bautechnik/B01 - Links (Bautechnik).md
   - Musik:

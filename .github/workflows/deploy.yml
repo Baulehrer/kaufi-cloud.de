@@ -26,3 +26,4 @@ jobs:
           chmod 600 ~/.ssh/deploy_key
           ssh-keyscan -H 37.114.49.102 >> ~/.ssh/known_hosts
           rsync -az --delete -e "ssh -i ~/.ssh/deploy_key" site/ root@37.114.49.102:/var/www/kaufi-cloud.de/
+          ssh -i ~/.ssh/deploy_key root@37.114.49.102 'chown -R www-data:www-data /var/www/kaufi-cloud.de'
