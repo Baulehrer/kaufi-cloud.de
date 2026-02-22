@@ -5,25 +5,15 @@
 }
 
 /* ── Header: Titel + Tagline ──────────────────────────────── */
-.md-header__title {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  line-height: 1.2;
-}
-
-.md-header__title-name {
-  font-size: 1rem;
-  font-weight: 600;
-  letter-spacing: 0.03em;
-}
-
-.md-header__tagline {
-  font-size: 0.65rem;
+.md-header__topic:first-child .md-ellipsis::after {
+  content: "Wissen · Technik · Bratwurst";
+  display: block;
+  font-size: 0.62rem;
   font-weight: 400;
-  opacity: 0.75;
+  opacity: 0.7;
   letter-spacing: 0.08em;
   text-transform: uppercase;
+  margin-top: 1px;
 }
 
 /* ── Navigation: schlichte Tabs ──────────────────────────── */
