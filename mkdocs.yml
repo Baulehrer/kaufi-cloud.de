@@ -9,13 +9,13 @@ theme:
   language: de
   palette:
     - scheme: slate
-      primary: custom
+      primary: blue grey
       accent: deep purple
       toggle:
         icon: material/brightness-4
         name: Hellmodus
     - scheme: default
-      primary: custom
+      primary: blue grey
       accent: deep purple
       toggle:
         icon: material/brightness-7
