@@ -8,8 +8,7 @@ tags:
   - Links
 ---
 # Arbeitssicherheit
-- [Linksammlung: Publikationen (DGUV)](https://publikationen.dguv.de/regelwerk/)
-- [Linksammlung: Vorschriften & Regeln (BGW)](https://publikationen.dguv.de)
+- [Linksammlung: Publikationen: Bauwesen (DGUV)](https://publikationen.dguv.de/regelwerk/publikationen-nach-fachbereich/bauwesen/)
 # Bauchemie
 - [Linksammlung: Baudichtstoffe (deutsche Bauchemie)](https://deutsche-bauchemie.de/publikationen/deutschsprachige-publikationen/baudichtstoffe)
 - [Linksammlung: Betonschutz- und instandhaltung (deutsche Bauchemie)](https://deutsche-bauchemie.de/publikationen/deutschsprachige-publikationen/kunststoffe-im-betonbau)
