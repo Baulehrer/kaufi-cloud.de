@@ -1,22 +1,15 @@
 ---
 Title: Links (Bautechnik)
 Autor: Stephan Kaufmann
-Date: 01/2026
-Version: "0.7"
+Date: 03/2026
+Version: "0.8"
 tags:
   - Bautechnik
   - Links
 ---
-##Einpflegen
-- https://www.ddh.de/kostenlose-downloads (Anmeldung erforderlich)
-- passipedia.de
-- https://www.masea-ensan.com
-- https://technik.xella.de/media/ressources/Gated/multipor-daemmbuch.pdf
-
 # Arbeitssicherheit
 - [Linksammlung: Publikationen (DGUV)](https://publikationen.dguv.de)
 - [Linksammlung: Vorschriften & Regeln (BGW)]([Linksammlung: Publikationen (DGUV)]https://publikationen.dguv.de)
-
 # Bauchemie
 - [Linksammlung: Baudichtstoffe (deutsche Bauchemie)](https://deutsche-bauchemie.de/publikationen/deutschsprachige-publikationen/baudichtstoffe)
 - [Linksammlung: Betonschutz- und instandhaltung (deutsche Bauchemie)](https://deutsche-bauchemie.de/publikationen/deutschsprachige-publikationen/kunststoffe-im-betonbau)
@@ -101,6 +94,7 @@ tags:
 - [Link: Leitfaden zu Dämmstoffen 2024 (ZVDH)](https://static1.squarespace.com/static/5fdc873450e6d73f0091169c/t/674ec635b5314c34b66b8b3a/1733215829749/Da%CC%88mmstoffBroschu%CC%88re_digital_Nov2024%5B43%5D.pdf)
 - [Link: Innovationen in der Wärmedämmung 2021 (DUH)](https://www.duh.de/fileadmin/user_upload/download/Projektinformation/Energieeffizienz/Gebaeude/Infobrosch%C3%BCre_Innovationen_in_der_W%C3%A4rmed%C3%A4mmung.pdf)
 - [Link: Dämmstoffe aus nachwachsende Rohstoffen 2024 (FNR)](https://www.fnr.de/fileadmin/allgemein/pdf/broschueren/P20337_FNR_Brosch_Daemmstoffe_2023_v13r08_231208_bf.pdf)
+- [Link: Das Dämmbuch (Xella)](https://technik.xella.de/media/ressources/Gated/multipor-daemmbuch.pdf)
 - [Linksammlung: Naturdämmstoffe (DUH)](https://www.duh.de/naturdaemmstoffe/) 
 
 ## Boden(-verbesserung)
@@ -149,7 +143,14 @@ tags:
 ## Verschiedenes
 - [Linksammlung: Veröffentlichungen der Abteilung Technik (ZVDH)](https://www.dachdecker-technik.de/veroeffentlichungen)
 - [Linksammlung: Publikationen (Hessen Mobil)](https://mobil.hessen.de/service/publikationen)
+- [Datenbank: Materialdatensammlung für die energetische Altbausanierung (MASEA)](https://www.masea-ensan.com)
+
+# Dächer
+[Linkssammlung: Abdichtungen (DDH, Anmeldung erforderlich)](https://www.ddh.de/kostenlose-downloads)
 # Instandsetzung & Sanierung
 
 ## Risse
 - [Link: Leitfaden - Risse in Gebäuden 2020 (Stadt Offenbach )](https://www.offenbach.de/medien/bindata/of/Umwelt_Klima/Broschu-re-Risse-in-Gebaeuden-web.pdf)
+
+# Passivhäuser
+- [Linksammlung: # Fachliteratur, Projektberichte und Leitfäden (Passivhaus Institut) ](https://passipedia.de/medien/medien/veroeffentlichungen/berichte)
