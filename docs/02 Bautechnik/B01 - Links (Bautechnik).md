@@ -76,9 +76,6 @@ tags:
 - [Link: Faszination Kalk 2003 (Kalk.de)](https://www.kalk.de/fileadmin/Home/Wissensportal/Publikationen/Allgemeines/Fazination_Kalk.pdf)
 - [Video: Der Kalkbrenner vom Kochelsee (der letzte seines Standes)](https://youtu.be/zDMWnpaqdz0?si=wDbxenQ34y-SuOYg)
 
-### Lehm
-- [Linksammlung: Dachverband Lehm e.V.](https://www.dachverband-lehm.de/downloads)
-
 ### Zement
 - [Link: Zement und ihre Herstellung 2024 (Beton.org)](https://www.vdpm.info/wp-content/uploads/2022/11/merkblatt-leitlinien2022.pdf)
 - [Video: Wo kommt eigentlich Zement her? (Lafarge/Holcim)](https://www.youtube.com/watch?v=PIzwkGe0vKI)
@@ -101,9 +98,6 @@ tags:
 
 ## Mauerwerk
 
-### Allgemein
-- [Link: Der Ratgeber rund um die Außenwand 2024 (VPDM)](https://www.vdpm.info/wp-content/uploads/2024/03/Downloads-aussenwandratgeber_2024.pdf)
-
 ### Kalksandstein
 - [Link: Mauerfibel 2019 (BV Kalksandsteinindustrie)](https://www.kalksandstein.de/media/08_downloadcenter/01_y_maurerfibel_gesamt_bvksi-201013_de.pdf)
 
@@ -124,6 +118,7 @@ tags:
 - [Link: Die Kunst des Klebens 2018 (VCI)](https://www.vci.de/fonds/schulpartnerschaft/unterrichtsmaterialien/unterrichtsmaterial-klebstoffe.jsp)
 
 ## Putz
+- [Linksammlung: Downloadbereich des VDPM](https://www.vdpm.info/download)
 - [Link: Leitlinien für das Verputzen von Mauerwerk und Beton 2022 (VDPM)](https://www.vdpm.info/wp-content/uploads/2022/11/merkblatt-leitlinien2022.pdf)
 - [Link: Strukturierte Putzoberflächen 2017 (BFS et al.)](https://www.schwepa.com/sites/default/files/merkblatt-strukturierte-putzoberflachen_visuelle-anforderungen_november-2017.pdf)
 - [Link: Putz auf Ziegelmauerwerk 2023 (Ziegel.de)](https://www.ziegel.de/sites/default/files/2023-09/Putz-auf-Ziegelmauerwerk_0.pdf)
