@@ -42,7 +42,6 @@ tags:
 - [Link: Betonpraxis 2022 (Holcim)](https://www.holcim.de/sites/germany/files/2024-01/holcim-betonpraxis.pdf)
 - [Link: Beton nach DIN EN 206-1 und DIN 1045-2 2020 (Holcim)](https://www.holcim.de/sites/germany/files/documents/holcim_leporello_beton_nach_din_en_206-1_und_din_1045-2_07_2021_1.pdf)
 - [Link: Sika Betontechnologie 2024 (Sika)](https://che.sika.com/dms/getdocument.get/9521de37-2cdc-495a-a2cd-60007d5b56f1/Sika-Beton-Handbuch_deCH.pdf)
-- [Link: Sika Betontechnologie 2024 (Sika)](https://che.sika.com/dms/getdocument.get/9521de37-2cdc-495a-a2cd-60007d5b56f1/Sika-Beton-Handbuch_deCH.pdf)
 
 - [Linksammlung: Zement-Merklätter (Beton.org)](https://www.beton.org/betonbau/planungshilfen/zementmerkblaetter/)
 - [Linksammlung: Beton.wiki (Beton.org)](https://beton.wiki/index.php?title=Hauptseite)
